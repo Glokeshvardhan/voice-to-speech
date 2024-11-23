@@ -76,7 +76,7 @@ function App() {
           onClick={handleSpeak}
           className="w-full mt-6 bg-teal-500 text-white py-3 px-5 rounded-xl hover:bg-teal-600 focus:ring focus:ring-teal-300 focus:outline-none font-semibold transition duration-300"
         >
-          Speak
+          Speak Now 
         </button>
       </div>
     </div>
